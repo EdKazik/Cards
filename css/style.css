@@ -20,7 +20,7 @@ h2 {
   font-size: 20px;
   margin: 8px;
 }
-.first_line_cards, .second_line_cards  {
+.container  {
   font-size: 0;
   margin-top: 20px;
 }
@@ -46,3 +46,8 @@ span {
 p {
   color: rgb(230, 39, 39);
 }
+ .about {
+    text-align: justify;
+    color: rgb(97, 97, 238);
+    font-size: 20px;
+ }
